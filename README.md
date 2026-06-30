@@ -1,142 +1,154 @@
-# 🚦 Road Accident Analysis Dashboard (Microsoft Excel)
+<div align="center">
 
-> An end-to-end **Data Analytics** project that transforms raw, noisy
-> road accident records into an interactive Excel dashboard for
-> data-driven decision making.
+# 🚦 Bangladesh Road Accident Analysis Dashboard
+### *Microsoft Excel | Data Cleaning | Dashboard Design | Business Intelligence*
 
-![Dashboard Preview](Dashboard%20Preview%202.png)
+Transforming **raw, noisy road accident records** into actionable insights through an interactive Excel dashboard.
 
-## 🎬 Dashboard Demo
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard-Business%20Intelligence-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+</p>
 
-> GitHub supports GIF previews. Place the GIF in the repository root or
-> `assets/` folder and uncomment the line below.
+</div>
 
-``` markdown
-![Dashboard Demo](ezgif-2119e43e4b3e926a.gif)
-```
+---
 
-------------------------------------------------------------------------
+# 📸 Dashboard Preview
 
-## 📌 Project Overview
+<p align="center">
+  <img src="Assets/Dashboard%20Preview%202.jpg" alt="Dashboard Preview" width="100%">
+</p>
 
-This project demonstrates the complete analytics workflow---from
-understanding business requirements and cleaning a noisy dataset to
-building an interactive Excel dashboard.
+# 🎬 Dashboard Demo
 
-The objective was to convert thousands of accident records into
-meaningful KPIs and visualizations that help identify accident hotspots,
-monitor trends, and support better planning.
+<p align="center">
+  <img src="Assets/demo.gif" alt="Dashboard Demo" width="100%">
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 🎯 Business Problem
+# 📑 Table of Contents
 
-Raw accident records contained inconsistent values, redundant
-attributes, duplicate information, and noisy categorical fields, making
-direct analysis unreliable.
+- Project Overview
+- Business Problem
+- Objectives
+- Tech Stack
+- Data Cleaning & Feature Engineering
+- Dashboard Features
+- Key Insights
+- Repository Structure
+- Documentation
+- Skills Demonstrated
+- Future Improvements
+- Author
 
-The goal was to build a clean, interactive dashboard capable of
-answering questions such as:
+---
 
--   Which locations have the highest accident rates?
--   How have accidents changed over time?
--   Which victim groups are most vulnerable?
--   What environmental conditions contribute to severe accidents?
--   Which vehicle categories are involved most frequently?
+# 📌 Project Overview
 
-------------------------------------------------------------------------
+This project showcases an end-to-end analytics workflow using Microsoft Excel. Starting from a noisy road accident dataset, I cleaned, standardized, validated, and transformed the data into an interactive dashboard that helps stakeholders monitor accident trends, identify high-risk areas, and explore accident patterns.
 
-## 🛠️ Tools & Technologies
+# 🎯 Business Problem
 
--   Microsoft Excel
--   Pivot Tables
--   Pivot Charts
--   Power Query
--   Power Pivot
--   Slicers & Timelines
--   Advanced Excel Functions
--   Data Cleaning & Feature Engineering
+Traffic accident data is difficult to analyze in its raw form due to inconsistent values, redundant fields, missing information, and unstructured records.
 
-------------------------------------------------------------------------
+The dashboard answers:
+- Which locations experience the highest accident frequency?
+- How have accidents changed over time?
+- Which victim groups are most vulnerable?
+- Which environmental conditions contribute to severe accidents?
+- Which vehicle types are most frequently involved?
 
-## 🧹 Data Cleaning & Feature Engineering
+# 🛠 Tech Stack
 
-The dashboard is built on a thoroughly cleaned dataset.
+| Category | Tools |
+|-----------|-------|
+| Dashboard | Microsoft Excel |
+| Data Cleaning | Excel, Power Query |
+| Visualization | Pivot Charts, Pivot Tables |
+| Interactivity | Slicers, Timelines |
+| Reporting | KPI Cards, Dynamic Charts |
 
-### Cleaning Process
+# 🧹 Data Cleaning & Feature Engineering
 
--   Removed duplicate records
--   Eliminated redundant columns
--   Standardized inconsistent categorical values
--   Handled missing values
--   Reduced noisy categories
--   Removed non-informative identifiers
--   Validated numerical fields
+- Removed duplicate records
+- Eliminated redundant columns
+- Standardized inconsistent values
+- Cleaned noisy location names
+- Handled missing values
+- Resolved inconsistent temporal fields
+- Built analytical features
+- Optimized the dataset for dashboard reporting
 
-### Feature Engineering
+# 📊 Dashboard Features
 
--   Standardized accident locations
--   Resolved inconsistent temporal variables
--   Created analytical demographic groups
--   Built clean reporting categories
--   Optimized the dataset for Pivot Tables
+- Interactive KPI Cards
+- Accident Trend Analysis
+- Fatality & Injury Analysis
+- Area-wise Distribution
+- Vehicle & Victim Analysis
+- Interactive Slicers
+- Dynamic Reporting
 
-------------------------------------------------------------------------
+# 📈 Key Insights
 
-## 📊 Dashboard Features
+- Accident hotspots identified.
+- Yearly trends visualized.
+- Vulnerable groups highlighted.
+- Interactive decision support.
 
--   Interactive KPI Cards
--   Total Accidents, Fatalities & Injuries
--   Accident Trend Analysis
--   Location-wise Analysis
--   Victim Analysis
--   Vehicle Analysis
--   Interactive Slicers
--   Dynamic Reporting
+# 📁 Repository Structure
 
-------------------------------------------------------------------------
-
-## 📂 Repository Structure
-
-``` text
-road-accident-dashboard-excel
-│
+```text
+Bangladesh-road-accident-analysis-project-Excel
 ├── dashboard/
 ├── data/
 ├── documentation/
 ├── assets/
+├── Dashboard Preview 2.jpg
+├── demo.gif
 └── README.md
 ```
 
-------------------------------------------------------------------------
+# 📚 Documentation
 
-## 📚 Documentation
+- Business Requirements
+- Data Cleaning Methodology
+- Case Study
+- Dashboard Demo
 
--   Business Requirements Document
--   Data Cleaning Methodology
--   Project Case Study
+# 💼 Skills Demonstrated
 
-------------------------------------------------------------------------
+- Data Cleaning
+- Feature Engineering
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Exploratory Data Analysis
+- Microsoft Excel
 
-## 🚀 Future Improvements
+# 🚀 Future Improvements
 
--   Power BI version
--   Interactive map visualization
--   Predictive accident analysis
--   Automated data refresh
+- Power BI version
+- GIS Mapping
+- Predictive Analytics
+- Automated refresh
 
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Arnab Aich**
 
-Data Analyst \| Mathematics Undergraduate
+GitHub: https://github.com/Arnabtheaich
 
--   LinkedIn: https://www.linkedin.com/in/arnab-aich/
--   GitHub: https://github.com/arnabtheaich
+LinkedIn: https://www.linkedin.com/in/arnab-aich/
 
-------------------------------------------------------------------------
+---
 
-⭐ If you found this project useful, consider giving the repository a
-star.
+<div align="center">
+
+### ⭐ If you found this project helpful, please consider giving it a Star!
+
+</div>
