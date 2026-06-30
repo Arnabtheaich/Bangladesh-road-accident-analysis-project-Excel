@@ -19,13 +19,13 @@ Transforming **raw, noisy road accident records** into actionable insights throu
 # 📸 Dashboard Preview
 
 <p align="center">
-  <img src="Assets/Dashboard%20Preview%202.jpg" alt="Dashboard Preview" width="100%">
+  <img src="dashboard/Dashboard%20Preview%202.png" alt="Dashboard Preview" width="100%">
 </p>
 
 # 🎬 Dashboard Demo
 
 <p align="center">
-  <img src="Assets/demo.gif" alt="Dashboard Demo" width="100%">
+  <img src="dashboard/demo.gif" alt="Dashboard Demo" width="100%">
 </p>
 
 ---
